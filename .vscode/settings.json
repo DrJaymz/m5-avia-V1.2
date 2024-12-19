@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "new": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp",
+        "core2_sounds.h": "c"
+    }
+}
